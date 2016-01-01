@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Bugreportparser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bugreportparser_jar</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="com.juanhoo.Controller.ParseBugreportApp" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="module-output" name="Bugreportparser" />
+      <element id="extracted-dir" path="$USER_HOME$/workspace/jar/jsoup-1.8.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
